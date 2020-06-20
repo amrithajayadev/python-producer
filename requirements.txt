@@ -1,0 +1,9 @@
+Flask~=1.0.0
+flask_restplus~=0.12.1
+requests~=2.19
+flask-api~=1.0
+Werkzeug==0.16.0
+pytest>=3.0
+pytest-runner
+gunicorn
+pact-test
